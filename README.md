@@ -12,7 +12,8 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   # aktywowanie hermetycznego środowiska
   $ source .venv/bin/activate
   $ pip install -r requirements.txt
-  $ pip install -r test_requirements.txt
+  $ pip install -r test_requirements.txt   
+# 2sposub instalacjji przez komende make file
 
   # zobacz
   $ pip list
